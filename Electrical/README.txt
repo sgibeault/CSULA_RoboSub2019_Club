@@ -1,1 +1,0 @@
-This folder contains PCB designs, schematics, datasheets, budget forms, and other relevant info and documentation for the electrical systems on the CSULA mini-RoboSub. 
