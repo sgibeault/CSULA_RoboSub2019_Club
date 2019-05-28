@@ -8,4 +8,5 @@ Current tasks (before next pool testing, on 6-1):
 - Hook up motherboard, test navigation interface
 - Depth control + stabilization code ready to be tested
 - Thruster mounts
+
 **We will decide on Saturday what the next tasks will be** 
