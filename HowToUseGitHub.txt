@@ -1,0 +1,27 @@
+/* 
+ * This document was written by Sidra Gibeault
+ * Last updated on 5/28/19
+ * This file is property of the CSULA RoboSub team
+*/
+
+Hi fellow CalStateLA AUV members -
+in case you are unfamiliar with GitHub, here's all you need to know to navigate this repository (file database), download files, upload files, delete files, and delete folders. 
+
+The link to the 2019 RoboSub GitHub repository is: https://github.com/sgibeault/CSULA_RoboSub2019_Club
+To be granted editing privileges, please send Sidra your GitHub username or the email address linked to your account. She will grant editing privileges so you may upload and edit files in the repository. 
+
+*Navigating the repository and downloading files*
+
+You will notice many folders labelled Electrical, Computer Science, Mechanical, Associative_Stuff, etc. If you click on any of these folders, just like on your computer desktop, it will show you the files and folders inside. You will notice that your "path" is listed on the top, with the main folder being called CSULA_RoboSub2019_Club. If you wish to go back to a previous folder quickly, you can click on it in this path. Now, to download files from a GitHub repository, you must download the folder they are in. Go to the folder that has the file you want to download in it, and scroll down until you see on the far right of your screen a green button that says "Clone or download". If you click this button, it gives you the option to 'Open in Desktop' or 'Download ZIP'. Click 'Download ZIP' and extract the folder on your computer. You have now downloaded the folder and can view and edit the files on your local computer. 
+
+*Uploading files*
+
+To upload files to a GitHub repository, you can simply click the "Upload files" button. This will allow you to find the files on your local machine and transfer them to the online repository. Make sure you click this button inside the correct folder. 
+
+*Deleting files*
+
+Say you uploaded the wrong files, or you want to update an old version of a file. To delete a file from a GitHub repository, simply navigate to the folder that has the file in it, click on the file, and find the small trash can icon on the right side of your screen by scrolling down. Click this icon, then scroll down and press the green button that says "Commit changes". This will confirm that you want to delete the file. After you complete these steps, the file will be deleted. 
+
+*Deleting a folder*
+
+Say you upload a folder accidentally, and you wish to remove it from the repository. Unfortunately, there is no simple way to delete a folder in a repository. To do so, you must delete every file inside the folder. Once this is done, the folder will disappear from the repository. 
